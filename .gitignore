@@ -1,0 +1,13 @@
+# External dependency, cloned automatically at runtime
+CHOCOLATE/
+
+# Simulation output (resumable checkpoint)
+simulation_results.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
